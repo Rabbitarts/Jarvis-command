@@ -1,0 +1,12 @@
+- command:
+    action: ahk
+    exe_path: ahk/Run steam.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой стим
+  - запусти стим

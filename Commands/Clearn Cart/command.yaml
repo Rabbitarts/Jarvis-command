@@ -1,0 +1,14 @@
+list: 
+name: Очистить корзину
+intent: ClearRecycleBin
+- command:
+    action: ahk
+    exe_path: ahk/RecycleBin.exe
+  voice:
+    sounds:
+      - ok1
+      - ok2
+      - ok3
+    phrases:
+      - Очистить корзину
+      - Выполнить очистку корзины

@@ -1,0 +1,26 @@
+list:
+  - command:
+      action: ahk
+      exe_path: 'ahk/NextTab.exe'
+      voice:
+        sounds:
+          - ok1
+          - ok2
+          - ok3
+      phrases:
+        - Переключиться на следующую вкладку
+        - Следующая вкладка
+        - Следующая вкладка в браузере
+
+  - command:
+      action: ahk
+      exe_path: 'ahk/PrevTab.exe'
+      voice:
+        sounds:
+          - ok1
+          - ok2
+          - ok3
+      phrases:
+        - Переключиться на предыдущую вкладку
+        - Предыдущая вкладка
+        - Предыдущая вкладка в браузере

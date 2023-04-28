@@ -1,0 +1,15 @@
+- command:
+    action: ahk
+    exe_path: ahk/Run music.exe
+    exe_args:
+  voice:
+    sounds:
+      - ok1
+      - ok2
+      - ok3
+  phrases:
+    - открой музыку
+    - запусти музыку
+    - протокол музыка
+    - музыка для роботы
+    - кайфануть

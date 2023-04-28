@@ -1,0 +1,13 @@
+command:
+    action: ahk
+      exe_path: ahk/Google Search.exe
+      exe_args:
+    voice:
+      sounds:
+        - ok1
+        - ok2
+        - ok3
+    phrases:
+      - поиск
+      - поиск в гугл
+      - выполни поиск

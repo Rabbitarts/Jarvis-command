@@ -1,0 +1,15 @@
+GeneratePassword:
+    action: ahk
+    script: | 
+        ; Генерируем случайный пароль из 12 символов
+        Random, password, 100000, 99999999
+        clipboard = %password%
+        MsgBox, 0, Password generated!, Password has been copied to clipboard.
+    voice:
+        sounds:
+            - ok1
+            - ok2
+            - ok3
+        phrases:
+            - "Сгенерировать пароль"
+            - "Создай мне пароль"

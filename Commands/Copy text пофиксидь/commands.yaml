@@ -1,0 +1,12 @@
+- command:
+    action: ahk
+    exe_path: ahk/CopyToClipboard.exe
+    voice:
+      sounds:
+        - ok1
+        - ok2
+        - ok3
+    phrases:
+      - скопируй текст
+      - скопируй выделенное
+      - скопируй текст

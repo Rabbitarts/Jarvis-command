@@ -1,0 +1,13 @@
+command:
+  action: ahk
+  exe_path: ahk/OpenSpotify.exe
+voice:
+  sounds:
+  - ok1
+  - ok2
+  - ok3
+phrases:
+- открой Spotify
+- запусти спотифай
+- включи песню
+- найди музыку на Spotify

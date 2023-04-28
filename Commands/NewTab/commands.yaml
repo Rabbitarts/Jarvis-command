@@ -1,0 +1,12 @@
+- command: 
+    action: ahk
+    exe_path: ahk/OpenChromeTab.exe
+    voice:
+      sounds:
+        - ok1
+        - ok2
+        - ok3
+    phrases:
+      - открой Google
+      - открой Google Chrome
+      - открой новую вкладку

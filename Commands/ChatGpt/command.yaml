@@ -1,0 +1,15 @@
+list:
+  - command:
+      action: ahk
+      exe_path: ahk/chatgpt.exe
+      exe_args:
+    voice:
+      sounds:
+        - ok1
+        - ok2
+        - ok3
+    phrases:
+      - открой чат ГПТ
+      - открой нейросеть
+      - открой чат нейросеть
+      - открой ИИ

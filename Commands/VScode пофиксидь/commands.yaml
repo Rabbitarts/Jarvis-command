@@ -1,0 +1,12 @@
+command:
+  action: ahk
+  exe_path: ahk/Run vscode.exe
+voice:
+  sounds:
+  - ok1
+  - ok2
+  - ok3
+phrases:
+  - открой редактор кода
+  - открой вс код
+  - открой визуал студио
